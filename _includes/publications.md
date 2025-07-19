@@ -9,7 +9,8 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
+     <!-- style="width: 250px; height: 100%;" -->
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1">
     {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}
@@ -43,9 +44,26 @@
   </div>
 </div>
 </li>
+<!-- <br> -->
+{% unless forloop.last %}
 <br>
+{% endunless %}
 
 {% endfor %}
 
+<details style="margin-bottom: 0;">
+  <summary>Click for More Publications</summary>
+  {% for link in site.data.publications_more.main %}
+  <div style="padding: 6px 0; border-bottom: 1px solid #eee;">
+    {% if link.conference_short %} 
+    <abbr class="badge_2">{{ link.conference_short }}</abbr><br>
+    {% endif %}
+    <span class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></span>.
+    <span class="author">{{ link.authors }}</span>
+  </div>
+  {% endfor %}
+</details>
+
 </ol>
 </div>
+

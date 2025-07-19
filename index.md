@@ -11,16 +11,25 @@ I am a second-year Ph.D. student at the [Research Center for Social Computing an
 - **Natural Language Processing:** Text Summarization, Meeting Summarization
 - **Large Language Models:** Multilingualism, Cultural Adaptability, Globally Inclusive LLMs
 
-<!-- ## News
+## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
+- **[2025.05]** Three papers are accepted to ACL2025 Main Conference <a href="https://scholar.google.com/citations?user=l9N6dl8AAAAJ&hl=en" target="_blank">@Me</a> <a href="https://scholar.google.com/citations?user=thexHRkAAAAJ&hl=en" target="_blank">@磊哥</a>.
+- **[2024.12]** Our paper is accepted to AAAI2025 <a href="https://scholar.google.com/citations?user=D8Xg7Q8AAAAJ&hl=en" target="_blank">@wenshuai</a>.
+- **[2024.11]** Our paper is accepted to COLING2025 (Oral) <a href="https://scholar.google.com/citations?user=xJ6gGLMAAAAJ&hl=en" target="_blank">@涛</a>.
+- **[2024.09]** Our paper is accepted to EMNLP2024 Main Conference <a href="https://scholar.google.com/citations?user=l9N6dl8AAAAJ&hl=en" target="_blank">@Me</a>.
 
 {% include_relative _includes/publications.md %}
 
+
 <!-- {% include_relative _includes/services.md %} -->
+
+## Honors
+
+- **National Scholarship, 2024**
+- **Outstanding Students, 2024 (Faculty of Computing, HIT)**
+- **ICASSP General Meeting Understanding and Generation Challenge, 2023**
+  - **1st Place**, Track5: Action Item Detection
+  - **2nd Place**, Track2: Topic-level and Session-level Extractive Summarization
 
 
 ## Education

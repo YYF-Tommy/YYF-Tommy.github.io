@@ -1,0 +1,28 @@
+main:
+
+  - title: "Improving Contextual Faithfulness of Large Language Models via Retrieval Heads-Induced Optimization"
+    authors: Lei Huang, Xiaocheng Feng, Weitao Ma, Yuchun Fan, Xiachong Feng, <strong><u>Yangfan Ye</u></strong>, Weihong Zhong, Yuxuan Gu, Baoxin Wang, Dayong Wu, Guoping Hu, Bing Qin
+    conference_short: ACL2025 Main
+    conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2501.13573?
+
+  - title: "Enhancing Non-English Capabilities of English-Centric Large Language Models through Deep Supervision Fine-Tuning"
+    authors: Wenshuai Huo, Xiaocheng Feng, Yichong Huang, Chengpeng Fu, Baohang Li, <strong><u>Yangfan Ye</u></strong>, Zhirui Zhang, Dandan Tu, Duyu Tang, Yunfei Lu, Hui Wang, Bing Qin
+    conference_short: AAAI2025
+    conference: Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2503.01275
+
+  - title: "Unveiling Entity-Level Unlearning for Large Language Models: A Comprehensive Analysis"
+    authors: Weitao Ma, Xiaocheng Feng, Weihong Zhong, Lei Huang, <strong><u>Yangfan Ye</u></strong>, Xiachong Feng, Bing Qin
+    conference_short: COLING 2025 (Oral)
+    conference: International Conference on Computational Linguistics <strong>(COLING)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2406.15796?
+  
+  - title: "Dialogue context modelling for action item detection: Solution for ICASSP 2023 mug challenge track 5"
+    authors: Jie Huang, Xiachong Feng, <strong><u>Yangfan Ye</u></strong>, Liang Zhao, Xiaocheng Feng, Bing Qin, Ting Liu
+    conference_short: ICASSP2023
+    conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2023.
+    pdf: https://xcfeng.net/res/paper/ICASSP_2023_MUG.pdf
+    # code: https://github.com/YYF-Tommy/CC-Tuning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # notes: Competition
