@@ -13,6 +13,7 @@ I am a second-year Ph.D. student at the [Research Center for Social Computing an
 
 ## News
 
+- **[2025.07]** 🏆 Big congrats to <a href="https://scholar.google.com/citations?user=thexHRkAAAAJ&hl=en" target="_blank">@磊哥</a> on the ACL 2025 SAC Highlight Paper Award! (Improving Contextual Faithfulness of Large Language Models via Retrieval Heads-Induced Optimization).
 - **[2025.05]** Three papers are accepted to ACL2025 Main Conference <a href="https://scholar.google.com/citations?user=l9N6dl8AAAAJ&hl=en" target="_blank">@Me</a> <a href="https://scholar.google.com/citations?user=thexHRkAAAAJ&hl=en" target="_blank">@磊哥</a>.
 - **[2024.12]** Our paper is accepted to AAAI2025 <a href="https://scholar.google.com/citations?user=D8Xg7Q8AAAAJ&hl=en" target="_blank">@wenshuai</a>.
 - **[2024.11]** Our paper is accepted to COLING2025 (Oral) <a href="https://scholar.google.com/citations?user=xJ6gGLMAAAAJ&hl=en" target="_blank">@涛</a>.
