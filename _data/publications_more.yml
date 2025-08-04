@@ -10,7 +10,7 @@ main:
     authors: Lei Huang, Xiaocheng Feng, Weitao Ma, Yuchun Fan, Xiachong Feng, Yuxuan Gu, <strong><u>Yangfan Ye</u></strong>, Liang Zhao, Weihong Zhong, Baoxin Wang, Dayong Wu, Guoping Hu, Lingpeng Kong, Tong Xiao, Ting Liu, Bing Qin
     conference_short: ACL2025 Main (Oral)
     conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2501.13573?
+    pdf: https://aclanthology.org/2025.acl-long.1199.pdf
 
   - title: "Enhancing Non-English Capabilities of English-Centric Large Language Models through Deep Supervision Fine-Tuning"
     authors: Wenshuai Huo, Xiaocheng Feng, Yichong Huang, Chengpeng Fu, Baohang Li, <strong><u>Yangfan Ye</u></strong>, Zhirui Zhang, Dandan Tu, Duyu Tang, Yunfei Lu, Hui Wang, Bing Qin
