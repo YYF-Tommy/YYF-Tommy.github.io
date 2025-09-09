@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a second-year Ph.D. student at the [Research Center for Social Computing and Interactive Robotics (SCIR)](https://ir.hit.edu.cn/), supervised by Prof. <a href="https://scholar.google.com/citations?user=Xu8NbhYAAAAJ&hl=en" target="_blank">Xiaocheng Feng</a> and Prof. <a href="https://scholar.google.com/citations?user=LKnCub0AAAAJ&hl=en" target="_blank">Bing Qin</a>. 
+I am a third-year Ph.D. student at the [Research Center for Social Computing and Interactive Robotics (SCIR)](https://ir.hit.edu.cn/), supervised by Prof. <a href="https://scholar.google.com/citations?user=Xu8NbhYAAAAJ&hl=en" target="_blank">Xiaocheng Feng</a> and Prof. <a href="https://scholar.google.com/citations?user=LKnCub0AAAAJ&hl=en" target="_blank">Bing Qin</a>. 
 
 ## Research Interests
 
