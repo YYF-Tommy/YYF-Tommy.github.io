@@ -28,12 +28,9 @@ I am a third-year Ph.D. student at the [Research Center for Social Computing and
 ## Honors
 
 - **The Third National Translation Technology Contest, 2025**
-  - **1st Place**, Track: Chinese↔Russian Translation
-
+  - **1st Place**, Track: Chinese↔Russian Translation <!-- -->
 - **National Scholarship, 2024**
-
 - **Outstanding Students, 2024 (Faculty of Computing, HIT)**
-
 - **ICASSP General Meeting Understanding and Generation Challenge, 2023**
   - **1st Place**, Track5: Action Item Detection
   - **2nd Place**, Track2: Topic-level and Session-level Extractive Summarization
