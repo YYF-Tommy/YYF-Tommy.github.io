@@ -13,6 +13,7 @@ I am a third-year Ph.D. student at the [Research Center for Social Computing and
 
 ## News
 
+- **[2025.09]** 🏆 Thrilled to share that we took 1st Place at the Third National Translation Technology Contest 2025 in the Chinese↔Russian machine translation track!
 - **[2025.07]** 🏆 Big congrats to <a href="https://scholar.google.com/citations?user=thexHRkAAAAJ&hl=en" target="_blank">@磊哥</a> on the ACL 2025 SAC Highlight Paper Award! <a href="https://arxiv.org/pdf/2501.13573?" target="_blank">Paper</a>
 - **[2025.05]** Three papers are accepted to ACL2025 Main Conference <a href="https://scholar.google.com/citations?user=l9N6dl8AAAAJ&hl=en" target="_blank">@Me</a> <a href="https://scholar.google.com/citations?user=thexHRkAAAAJ&hl=en" target="_blank">@磊哥</a>.
 - **[2024.12]** Our paper is accepted to AAAI2025 <a href="https://scholar.google.com/citations?user=D8Xg7Q8AAAAJ&hl=en" target="_blank">@wenshuai</a>.
