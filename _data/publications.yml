@@ -1,4 +1,13 @@
 main:
+  - title: "LangGPS: Language Separability Guided Data Pre-Selection for Joint Multilingual Instruction Tuning"
+    authors: <strong><u>Yangfan Ye</u></strong>, Xiaocheng Feng, Xiachong Feng, Lei Huang, Weitao Ma, Qichen Hong, Yunfei Lu, Duyu Tang, Dandan Tu, Bing Qin
+    conference_short: AAAI2026 Main Track
+    conference: Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2511.10229
+    code: https://github.com/YYF-Tommy/LangGPS
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/AAAI2026.png
+    notes: Main Track
 
   - title: "CC-Tuning: A Cross-Lingual Connection Mechanism for Improving Joint Multilingual Supervised Fine-Tuning"
     authors: <strong><u>Yangfan Ye</u></strong>, Xiaocheng Feng, Zekun Yuan, Xiachong Feng, Libo Qin, Lei Huang, Weitao Ma, Yichong Huang, Zhirui Zhang, Yunfei Lu, Xiaohui Yan, Duyu Tang, Dandan Tu, Bing Qin
