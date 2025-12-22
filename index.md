@@ -27,7 +27,7 @@ I am a first-year Ph.D. student at the [Research Center for Social Computing and
 <!-- {% include_relative _includes/services.md %} -->
 
 ## Honors
-
+- **Mucang(木仓) Scholarship, 2025**
 - **The Third National Translation Technology Contest, 2025** <br>
   \- **1st Place**, Track: Chinese↔Russian Translation <!-- -->
 - **ACL2025 SAC Highlight Paper**
@@ -43,4 +43,4 @@ I am a first-year Ph.D. student at the [Research Center for Social Computing and
 
 - **2019.09 ~ 2023.06:** B.E in Artificial Intelligence, Harbin Institute of Technology
 - **2023.09 ~ Now:** Ph.D Candidate in Computer Science, Harbin Institute of Technology
-  *(Transferred from M.S. to Ph.D. program in 2025.02)*
+  *(Transferred from M.S. to Ph.D. program in 2025.03)*
