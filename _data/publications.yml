@@ -3,12 +3,12 @@ main:
     authors: <strong><u>Yangfan Ye</u></strong>, Xiaocheng Feng, Xiachong Feng, Libo Qin, Yichong Huang, Lei Huang, Weitao Ma, Qichen Hong, Zhirui Zhang, Yunfei Lu, Xiaohui Yan, Duyu Tang, Dandan Tu, Bing Qin
     conference_short: TASLP2026
     conference: IEEE Transactions on Audio, Speech and Language Processing, 2026.
-    pdf: https://arxiv.org/pdf/2410.04087
+    pdf: https://ieeexplore.ieee.org/document/11477106
     code: https://github.com/YYF-Tommy/XTransplant
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Preprint
+    notes: 
     image: ./assets/img/decodingcase.png
-    
+
   - title: "LangGPS: Language Separability Guided Data Pre-Selection for Joint Multilingual Instruction Tuning"
     authors: <strong><u>Yangfan Ye</u></strong>, Xiaocheng Feng, Xiachong Feng, Lei Huang, Weitao Ma, Qichen Hong, Yunfei Lu, Duyu Tang, Dandan Tu, Bing Qin
     conference_short: AAAI2026 Main Track
