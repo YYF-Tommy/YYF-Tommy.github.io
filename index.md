@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year Ph.D. student at the [Research Center for Social Computing and Interactive Robotics (SCIR)](https://ir.hit.edu.cn/), supervised by Prof. <a href="https://scholar.google.com/citations?user=Xu8NbhYAAAAJ&hl=en" target="_blank">Xiaocheng Feng</a> and Prof. <a href="https://scholar.google.com/citations?user=LKnCub0AAAAJ&hl=en" target="_blank">Bing Qin</a>. 
+I am a third-year Ph.D. student at the [Research Center for Social Computing and Interactive Robotics (SCIR)](https://ir.hit.edu.cn/), supervised by Prof. <a href="https://scholar.google.com/citations?user=Xu8NbhYAAAAJ&hl=en" target="_blank">Xiaocheng Feng</a> and Prof. <a href="https://scholar.google.com/citations?user=LKnCub0AAAAJ&hl=en" target="_blank">Bing Qin</a>. 
 
 ## Research Interests
 
@@ -12,7 +12,8 @@ I am a first-year Ph.D. student at the [Research Center for Social Computing and
 - **Large Language Models:** Multilingualism, Cultural Adaptability, Globally Inclusive LLMs
 
 ## News
-
+- **[2026.04]** Four papers are accepted to ACL2026 (2 Main, 2 Findings) <a href="https://scholar.google.com/citations?user=l9N6dl8AAAAJ&hl=en" target="_blank">@Yangfan</a>, <a href="https://scholar.google.com/citations?user=Wifx6goAAAAJ&hl=en" target="_blank">@Xiachong</a>, <a href="https://scholar.google.com/citations?user=U6Gd6JoAAAAJ&hl=en" target="_blank">@Xiachong</a>.
+- **[2026.04]** Our paper is accepted to IEEE Transactions on Audio, Speech and Language Processing <a href="https://scholar.google.com/citations?user=l9N6dl8AAAAJ&hl=en" target="_blank">@Yangfan</a>.
 - **[2025.11]** Our paper is accepted to AAAI2026 <a href="https://scholar.google.com/citations?user=l9N6dl8AAAAJ&hl=en" target="_blank">@Yangfan</a>.
 - **[2025.09]** 🥇 Thrilled to share that we took 1st Place at the Third National Translation Technology Contest 2025 in the Chinese↔Russian machine translation track!
 - **[2025.07]** 🏆 Big congrats to <a href="https://scholar.google.com/citations?user=thexHRkAAAAJ&hl=en" target="_blank">@Lei</a> on the ACL 2025 SAC Highlight Paper Award! <a href="https://arxiv.org/pdf/2501.13573?" target="_blank">Paper</a>
