@@ -1,4 +1,15 @@
 main:
+  - title: "Stratagem: Learning Transferable Reasoning via Trajectory-Modulated Game Self-Play"
+    authors: Xiachong Feng, Deyi Yin, Xiaocheng Feng, Yi Jiang, Libo Qin, <strong><u>Yangfan Ye</u></strong>, Lei Huang, Weitao Ma, Qiming Li, Yuxuan Gu, Bing Qin, Lingpeng Kong
+    conference_short: ACL2026 Main
+    conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2604.17696
+
+  - title: "SAVOIR: Learning Social Savoir-Faire via Shapley-based Reward Attribution"
+    authors: Xiachong Feng, Yi Jiang, Xiaocheng Feng, Deyi Yin, Libo Qin, <strong><u>Yangfan Ye</u></strong>, Lei Huang, Weitao Ma, Yuxuan Gu, Chonghan Qin, Bing Qin, Lingpeng Kong
+    conference_short: Findings of ACL2026
+    conference: Findings of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2604.18982
 
   - title: "Improving Contextual Faithfulness of Large Language Models via Retrieval Heads-Induced Optimization"
     authors: Lei Huang, Xiaocheng Feng, Weitao Ma, Yuchun Fan, Xiachong Feng, <strong><u>Yangfan Ye</u></strong>, Weihong Zhong, Yuxuan Gu, Baoxin Wang, Dayong Wu, Guoping Hu, Bing Qin
