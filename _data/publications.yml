@@ -4,7 +4,7 @@ main:
     conference_short: ACL2026 Main
     conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2604.24361
-    notes: 
+    notes: Main Conference
     image: ./assets/img/CanMT.png
 
   - title: "x1: Learning to Think Adaptively Across Languages and Cultures"
@@ -13,7 +13,7 @@ main:
     conference: Findings of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2604.16917
     code: https://github.com/YYF-Tommy/x1-adaptive-multilingual-reasoning
-    notes: 
+    notes: Findings
     image: ./assets/img/ACL2026x1.png
 
   - title: "Exploring Cross-lingual Latent Transplantation: Mutual Opportunities and Open Challenges"
