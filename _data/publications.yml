@@ -1,4 +1,12 @@
 main:
+  - title: "CultureForest: Understanding and Evaluating Cultural Norm Grounded Reasoning in LLMs"
+    authors: <strong><u>Yangfan Ye</u></strong>, Xiaocheng Feng, Jialong Tang, Xiayu Cao, Zihan Zhang, Xiachong Feng, Baosong Yang, Bing Qin
+    conference_short: Arxiv
+    conference: Arxiv.
+    pdf: https://arxiv.org/pdf/2606.01879
+    notes: Arxiv
+    image: ./assets/img/CultureForest_Arxiv.png
+
   - title: "Culture-Aware Machine Translation in Large Language Models: Benchmarking and Investigation"
     authors: Zekun Yuan*, <strong><u>Yangfan Ye*</u></strong>, Xiaocheng Feng, Baohang Li, Qichen Hong, Yunfei Lu, Dandan Tu, Bing Qin
     conference_short: ACL2026 Main
