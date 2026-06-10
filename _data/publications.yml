@@ -4,7 +4,7 @@ main:
     conference_short: Arxiv
     conference: Arxiv.
     pdf: https://arxiv.org/pdf/2606.01879
-    notes: Arxiv
+    # notes: 2606.01879, Arxiv.
     image: ./assets/img/CultureForest_Arxiv.png
 
   - title: "Culture-Aware Machine Translation in Large Language Models: Benchmarking and Investigation"
